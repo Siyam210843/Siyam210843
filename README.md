@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am Siyam<br>🤝 I’m looking for help with Automation<br>🌱 I’m currently learning Python<br>💬 Ask me about .............<br>
+<br>🤝 I’m looking for help with Automation<br>🌱 I’m currently learning Python<br>💬 Ask me about .............<br>
 
 
 ## 🌐 Socials:
