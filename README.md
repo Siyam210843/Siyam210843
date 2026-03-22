@@ -1,17 +1,20 @@
-# 💫 About Me:
-<br>🤝 I’m looking for help with Automation<br>🌱 I’m currently learning Python<br>💬 Ask me about .............<br>
+CSE Student • AI & Software Developer • Problem Solver
+
+I’m a passionate developer from 🇧🇩 Bangladesh, currently studying Computer Science & Engineering (CSE) at United International University.
+
+I love exploring AI, Machine Learning, Computer Vision, NLP, Software Development, and IoT/Robotics.
+My goal is to build impactful projects and publish high-quality AI research.
+
+🚀 About Me<br/>
+🎓 CSE Student at UIU<br/>
+📬 Contact Me<br/>
+📧 Email: siyamjaman72@gmail.com<br/>
+🔗 GitHub: https://github.com/Hawk-Out<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=shakibalam2503&theme=tokyonight&hide_border=true)<br/>
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakibalam2503&theme=tokyonight)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakibalam2503&theme=tokyonight)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@siyam0941w) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@Hawk21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyamjaman72@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Siyam2108&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibalam2503&theme=tokyonight)
